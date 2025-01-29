@@ -1,6 +1,6 @@
 # EduScore Predictor
 
-## Student Perfoamnce Prediction
+## Student Performance Prediction
 
 This project aims to predict student performance based on various factors such as gender, ethnicity, parental level of education, lunch type, test preparation course, and exam scores. The machine learning model trained on a dataset of student information can provide insights into predicting a student's performance in mathematics.
 
@@ -30,4 +30,4 @@ This project aims to predict student performance based on various factors such a
 * CSS
 
 ## Author
-Rahul Kummara
+**-Rahul Kummara**
